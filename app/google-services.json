@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "114146784246",
+    "firebase_url": "https://aplicacion-pacientes-35283-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "aplicacion-pacientes-35283",
+    "storage_bucket": "aplicacion-pacientes-35283.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:114146784246:android:b8249ec8ad21678142cdd7",
+        "android_client_info": {
+          "package_name": "com.example.conexionrealtimedatabase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBy5JvnWtTD6mZEcuqQ1xx4VDdDkni_-Kg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
